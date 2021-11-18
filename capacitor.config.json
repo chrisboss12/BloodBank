@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-firestore-crud-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
