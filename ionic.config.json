@@ -1,0 +1,7 @@
+{
+  "name": "ca2crudapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
