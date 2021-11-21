@@ -1,3 +1,19 @@
 <ion-app>
   <ion-router-outlet></ion-router-outlet>
 </ion-app>
+
+<!-- Navigation tabs -->
+
+<ion-tabs>
+  <ion-tab-bar slot="bottom">
+    <ion-tab-button routerLinkActive="tab-selected" routerLink="/todo-list" tab="todo-list">
+      <ion-icon name="list-outline"></ion-icon>
+      <ion-label>Tasks</ion-label>
+    </ion-tab-button>
+
+    <ion-tab-button routerLinkActive="tab-selected" routerLink="/create-todo" tab="create-todo">
+      <ion-icon name="add-circle-outline"></ion-icon>
+      <ion-label>Create Task</ion-label>
+    </ion-tab-button>
+  </ion-tab-bar>
+</ion-tabs>
