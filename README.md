@@ -1,4 +1,4 @@
-# ca2crudapp
+# BloodBankIE
 
 Final CA Project (BSc. Honours Computing in Cloud Computing)
 
